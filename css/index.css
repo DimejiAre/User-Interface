@@ -75,6 +75,7 @@ div * {
 
 a {
 	padding: 0 15px;
+	font-family: 'Indie Flower', cursive;
 }
 
 
@@ -92,7 +93,6 @@ h1, h2, h3, h4, h5 {
 .navbar {
 	display: inline-block;
 	width: 550px;
-	/* vertical-align: text-top; */
 }
 
 .logo {
@@ -121,6 +121,7 @@ h1, h2, h3, h4, h5 {
 .header-img {
 	display: inline-block;
 	width: 360px;
+	padding: 0px 40px;
 }
 
 .header {
