@@ -72,6 +72,8 @@ body {
 a {
 	padding: 0 15px;
 	font-family: 'Indie Flower', cursive;
+	text-decoration: none;
+	color: black;
 }
 
 
@@ -92,9 +94,10 @@ h1, h2, h3, h4, h5 {
 	width: 550px;
 }
 .top {
-	background-color: skyblue;
+	background-color: gray;
 	position: fixed;
-	z-index: 5;
+	top: 0;
+	z-index: 2;
 	width: 800px;
 }
 
@@ -128,7 +131,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .header {
-	padding: 80px 0px 30px 0px;
+	padding: 40px 0px 30px 0px;
 }
 
 section {
